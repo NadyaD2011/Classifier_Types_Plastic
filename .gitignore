@@ -15,3 +15,5 @@ Thumbs.db
 *.log
 *.tmp
 plastic_types_dataset/
+*.keras
+*.h5
