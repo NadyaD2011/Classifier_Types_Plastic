@@ -94,7 +94,9 @@ pip install -r requirements.txt
 
 ### Шаг 3. Обучение модели
 
-**Важно:** Файл обученной модели не загружается на GitHub из-за большого размера (~250 МБ). Необходимо обучить модель самостоятельно. Или скачать по [ссылке](https://disk.yandex.ru/d/-xi7nFfHDLdW9w)
+**Важно:** Файл обученной модели не загружается на GitHub из-за большого размера (~250 МБ). Необходимо обучить модель самостоятельно. Или скачать по [ссылке](https://disk.yandex.ru/d/-xi7nFfHDLdW9w).
+
+Скачать датасет можно с открытого источника на сайте Kaggle по [ссылке](https://www.kaggle.com/datasets/vencerlanz09/bottle-synthetic-images-dataset).
 
 ```bash
 python plastic_type_classifier.py
